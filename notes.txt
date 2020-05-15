@@ -3,3 +3,6 @@
 
 2. How React Native Works?
 - See the images for details.
+
+3. Expo Vs React Native CLI
+- See the images for details.
