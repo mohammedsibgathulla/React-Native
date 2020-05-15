@@ -1,2 +1,5 @@
 1. What Is React Native?
 - See the image for details.
+
+2. How React Native Works?
+- See the images for details.
