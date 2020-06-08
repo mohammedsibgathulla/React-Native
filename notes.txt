@@ -6,3 +6,11 @@
 
 3. Expo Vs React Native CLI
 - See the images for details.
+
+4. Creating Our First React Native App
+- Visit https://expo.io/learn -> Create your first project.
+- Install npm
+- expo init myNewProject
+- cd myNewProject
+- expo start
+- See the project.
