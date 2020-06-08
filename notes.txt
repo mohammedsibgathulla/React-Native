@@ -14,3 +14,7 @@
 - cd myNewProject
 - expo start
 - See the project.
+
+5. Working On Our First App
+- We have the keyword useState in react to update the state.
+- See the project. 
