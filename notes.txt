@@ -18,3 +18,6 @@
 5. Working On Our First App
 - We have the keyword useState in react to update the state.
 - See the project. 
+
+6. React Native Apps Are Hard Work!
+- See the image.
