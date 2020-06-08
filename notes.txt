@@ -21,3 +21,6 @@
 
 6. React Native Apps Are Hard Work!
 - See the image.
+
+7. React Native Alternatives
+- https://academind.com/learn/flutter/react-native-vs-flutter-vs-ionic-vs-nativescript-vs-pwa/
